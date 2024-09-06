@@ -1,0 +1,5 @@
+@WebApiDemoForLuWo.WebApi_HostAddress = http://localhost:5136
+
+GET {{WebApiDemoForLuWo.WebApi_HostAddress}}/weather/
+
+###
